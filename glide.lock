@@ -1,6 +1,7 @@
 hash: a730729c91753fec77a0c9b4084e37a07ab19dceb8f5c4f8b134eee0d7980df9
 updated: 2017-07-05T15:36:19.413681678-04:00
 imports:
+#test
 - name: github.com/beorn7/perks
   version: 4c0e84591b9aa9e6dcfdf3e020114cd81f89d5f9
   subpackages:
