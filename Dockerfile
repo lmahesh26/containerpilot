@@ -1,6 +1,6 @@
 FROM golang:1.8
 
-RUN  apt-get22 update \
+RUN  apt-get222 update \
      && apt-get install -y unzip \
      && go get github.com/golang/lint/golint \
      && curl -Lo /tmp/glide.tgz "https://github.com/Masterminds/glide/releases/download/v0.12.3/glide-v0.12.3-linux-amd64.tar.gz" \
